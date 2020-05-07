@@ -1,21 +1,43 @@
 .jumbotron{
 	text-align: center;
-	background-color: red;
+	background-color: lightblue;
+	color: black;
 }
 
-.h1{
-	color: red;
-
+button{
+	background-color: lightgrey;
 }
 
-.button{
-	color: yellow;
+h3{
+	color: black;
 }
 
-.nav-tabs{
-	color: purple;
+li{
+	color: navy;
 }
 
-.h3{
-	color: red;
+img{
+	width="204px" height="325px"
 }
+
+.row{
+	background-color: lightgrey;
+}
+
+.container{
+	background-color: black;
+}
+
+.nav{
+	color: white;
+	font-family: "Arial";
+}
+
+.col-xs-12{
+	background-color: lightgrey;
+}
+
+.text-warning{
+	color: blue;
+}
+
